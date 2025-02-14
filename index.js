@@ -23,9 +23,9 @@ client.on('ready', () => {
 });
 
 
-const voiceChannelId = '1327444709794119720';
-const staffChannelID = '1327444709274288149';
-const staffRoleID = '1327444708221259814';
+const voiceChannelId = 'voiceChannelId_here';
+const staffChannelID = 'staffChannelID_here';
+const staffRoleID = 'staffRoleID_here';
 const audioFilePath = './supo.mp3'; 
 
 
